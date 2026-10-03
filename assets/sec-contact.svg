@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 30" width="284" height="30" role="img" aria-label="COMMUNICATION FREQUENCY">
+<style>
+ .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}
+ .txt{fill:#f3f7fa} .mu{fill:#94a6be} .dim{fill:#546884} .cy{fill:#00f0ff} .gr{fill:#00ff88} .am{fill:#ffb703}
+ .pulse{animation:pulse 2s ease-in-out infinite} @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+ .in{opacity:0;animation:in .6s ease-out forwards} @keyframes in{to{opacity:1}}
+ .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}.d5{animation-delay:1.1s}
+ .scan{animation:scan 6s linear infinite} @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(400px)}}
+ @media (prefers-reduced-motion:reduce){.in,.pulse,.scan{animation:none;opacity:1}}
+</style><text x="0" y="21" class="m cy" font-size="13" letter-spacing=".14em">[COMMUNICATION FREQUENCY]</text><line x1="0" y1="29" x2="284" y2="29" stroke="#2d425c" stroke-opacity=".6"/></svg>
