@@ -1,54 +1,70 @@
 <!-- ========================================================
-  DEV KAUSHAL — GITHUB PROFILE (COMMAND CENTRE & ARCHITECTURE)
-  Truth-first, zero-fluff, highly interactive & structured profile.
+  DEV KAUSHAL — WORLD-CLASS ARCHITECTURAL GITHUB PROFILE
+  Engineered with high signal-to-noise ratio, zero fluff,
+  matte dark aesthetic & authentic technical showcases.
 ======================================================== -->
 
 <div align="center">
 
-# `DEV KAUSHAL`
-### ⚡ Web Architect & Systems Designer &nbsp;·&nbsp; Data-Driven SEO &nbsp;·&nbsp; AI Automation Workflows
-**Gurugram, India** &nbsp;•&nbsp; *Building performance-engineered websites, conversion funnels & modular intelligence systems.*
+  <!-- Minimal Dark Status Pill -->
+  <a href="https://dev-kaushal.netlify.app/">
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%7C%20AVAILABLE%20FOR%20HIGH--IMPACT%20PROJECTS-000000?style=for-the-badge&logo=statuspage&logoColor=22c55e" alt="Status: Available" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/LIVE_SYSTEMS-dev--kaushal.netlify.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev-kaushal.netlify.app/)
-[![Digital India Hub](https://img.shields.io/badge/PLATFORM-digitalindiahub.com-1e293b?style=for-the-badge&logo=firefox&logoColor=white)](https://dev.digitalindiahub.com/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-kaushal-8215373ab)
-[![Direct Contact](https://img.shields.io/badge/COMM_CHANNEL-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918923162439)
+  <!-- Dynamic Typing Header: Clean Monospace Terminal Style -->
+  <a href="https://dev-kaushal.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=%E2%9A%A1+DEV+KAUSHAL+%7C+WEB+ARCHITECT;Building+Zero-Radius+Luxury+E-Com+Funnels;Engineering+Data-Driven+SEO+Systems;Architecting+Autonomous+AI+Skills+%26+Workflows" alt="Dev Kaushal Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>WordPress & Elementor Architect</b> &nbsp;•&nbsp; 
+    <b>Technical SEO Engineer</b> &nbsp;•&nbsp; 
+    <b>AI Workflow Specialist</b>
+  </p>
+
+  <p align="center">
+    📍 Gurugram, India &nbsp;&nbsp;|&nbsp;&nbsp; 
+    🎯 <i>"Minimal aesthetic. Zero invented metrics. Measurable technical ROI."</i>
+  </p>
+
+  <!-- Interactive Quick Navigation Bar -->
+  <p align="center">
+    <a href="https://dev-kaushal.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=38bdf8" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/dev-kaushal-8215373ab" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://wa.me/918923162439" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://dev.digitalindiahub.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Digital_India_Hub-1e293b?style=flat-square&logo=firefox&logoColor=white" alt="Agency" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 📡 System Diagnostics & Identity
-
-```yaml
-Operator     : Dev Kaushal
-Discipline   : Web Architecture, Performance SEO, Conversion Systems & AI Agents
-Base         : Gurugram, India
-Philosophy   : "Minimal aesthetic. Zero invented metrics. Measurable technical ROI."
-Design Style : Zero-Radius Geometric, Matte Noir (#0a0a0a), Mobile-First, Accessible
-Core Weapon  : Clean Semantic Code + Scalable WordPress/Elementor Engines + Algorithmic SEO
-```
-
----
-
-### ⚡ Active Focus & In-Flight Sprints
+### ⚡ Operational Focus & Active Sprints
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎯 Production Engineering</h4>
+      <h4>🏢 Production Web Engineering</h4>
       <ul>
-        <li><b>High-Yield Funnel Architecture</b>: Engineering luxury e-commerce layouts and zero-radius design systems inside <a href="https://github.com/devkaushall/dev_vault"><code>dev_vault</code></a> (Diavo Jewels project).</li>
-        <li><b>Enterprise Web Design</b>: Crafting responsive, high-speed WordPress & Elementor frameworks engineered for sub-second Core Web Vitals.</li>
+        <li><b>High-Yield Funnel Architecture</b>: Engineering luxury e-commerce layouts and zero-radius design systems inside <a href="https://github.com/devkaushall/dev_vault"><b><code>dev_vault</code></b></a> (Diavo Jewels project).</li>
+        <li><b>WordPress Performance Engineering</b>: Building lightweight, accessible Elementor & WP frameworks optimized for sub-second Core Web Vitals.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🧪 Learning Lab & AI Research</h4>
+      <h4>🧠 AI Intelligence & Systems</h4>
       <ul>
-        <li><b>Autonomous AI Skills</b>: Building platform-independent intelligence engines like <a href="https://github.com/devkaushall/insta-page-optimising-skill"><code>insta-page-optimising-skill</code></a> (staged diagnostic pipeline with ICE scoring).</li>
-        <li><b>Cinematic AI Production</b>: Exploring camera movement, character consistency, and prompt-to-video pipelines in <a href="https://github.com/devkaushall/ai-video-editing-journey"><code>ai-video-editing-journey</code></a>.</li>
+        <li><b>Autonomous AI Skills</b>: Designing staged pipeline intelligence engines like <a href="https://github.com/devkaushall/insta-page-optimising-skill"><b><code>insta-page-optimising-skill</code></b></a> (featuring diagnosis/opportunity ledgers & ICE scoring).</li>
+        <li><b>Cinematic AI Production</b>: Exploring camera movement, character consistency, and prompt-to-video pipelines in <a href="https://github.com/devkaushall/ai-video-editing-journey"><b><code>ai-video-editing-journey</code></b></a>.</li>
       </ul>
     </td>
   </tr>
@@ -56,85 +72,94 @@ Core Weapon  : Clean Semantic Code + Scalable WordPress/Elementor Engines + Algo
 
 ---
 
-### 🗃️ Verified Repositories & Blueprint Directory
+### 🗃️ Selected Systems & Public Repositories
 
-Here is the exact index of my public repositories and what they actually contain:
+<!-- Direct Dynamic Repo Cards for World-Class Aesthetic -->
+<div align="center">
+  <a href="https://github.com/devkaushall/portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devkaushall&repo=portfolio&theme=dark&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" width="48%" alt="portfolio card" />
+  </a>
+  <a href="https://github.com/devkaushall/dev_vault">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devkaushall&repo=dev_vault&theme=dark&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" width="48%" alt="dev_vault card" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/devkaushall/insta-page-optimising-skill">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devkaushall&repo=insta-page-optimising-skill&theme=dark&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" width="48%" alt="insta-page-optimising-skill card" />
+  </a>
+  <a href="https://github.com/devkaushall/awesome-ai-marketing">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devkaushall&repo=awesome-ai-marketing&theme=dark&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" width="48%" alt="awesome-ai-marketing card" />
+  </a>
+</div>
+
+<br/>
 
 <details open>
-<summary><b>View Systems Directory & Case Files</b> <i>(Click to collapse/expand)</i></summary>
+<summary><b>📋 Complete Repository & Architecture Matrix</b> <i>(Click to toggle)</i></summary>
 <br/>
 
-| Repository | Scope & Implementation | Stack / Architecture | Status |
+| System | Role & Core Capability | Key Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| [**dev_vault**](https://github.com/devkaushall/dev_vault) | **Flagship Workspace:** Zero-radius UI components, matte-black e-com funnels, SEO audit checklists, and frontend experiments. | HTML5, CSS Variables, Tailwind CSS, Python | `Active` 🟢 |
-| [**portfolio**](https://github.com/devkaushall/portfolio) | **Personal Command Centre:** Built without bloated frameworks. 8 destinations, custom mjs static generator, WCAG 2.1 accessibility checks, zero-invented-metrics policy. | Vanilla JS / Node 20+, Playwright, axe-core | `Deployed` 🚀 |
-| [**insta-page-optimising-skill**](https://github.com/devkaushall/insta-page-optimising-skill) | **Production AI Growth Engine:** Staged pipeline with Diagnosis & Opportunity ledgers, ICE prioritization matrix, and multi-adapter support (Claude, ChatGPT, Arena). | Markdown Skill Schema, JSON Contracts, Prompt Arch | `Production` 🧠 |
-| [**awesome-ai-marketing**](https://github.com/devkaushall/awesome-ai-marketing) | **Curated Knowledge Base:** High-performance prompt blueprints, automation systems, and growth engineering docs for marketers. | Markdown, System Documentation, Prompt Engineering | `Curated` 📚 |
-| [**ai-video-editing-journey**](https://github.com/devkaushall/ai-video-editing-journey) | **Visual Research Lab:** Documenting cinematic anime-to-realistic generation, character consistency experiments, and audio design workflows. | Prompt Engineering, Video & Sound Workflows | `In Progress` 🔬 |
-| [**its-devil**](https://github.com/devkaushall/its-devil) | **WordPress Utility Pack:** Custom snippets, Elementor templates, and utility hooks designed to streamline client deployments. | PHP, WordPress, Elementor Core | `Maintained` 🛠️ |
+| 🗃️ [**`dev_vault`**](https://github.com/devkaushall/dev_vault) | **Flagship System:** Luxury zero-radius UI tokens, Diavo Jewels funnel, and technical SEO frameworks. | HTML5, Tailwind, CSS Tokens, Python | `Active` 🟢 |
+| 🚀 [**`portfolio`**](https://github.com/devkaushall/portfolio) | **Personal Command Centre:** 8 destinations, custom `.mjs` generator, WCAG 2.1 accessibility verified. | Vanilla JS, Node.js 20+, Playwright | `Live` ⚡ |
+| 🧠 [**`insta-page-optimising-skill`**](https://github.com/devkaushall/insta-page-optimising-skill) | **Production AI Skill:** Multi-adapter Instagram strategist with ICE evaluation matrix & diagnosis ledger. | AI Schemas, JSON Contracts, Prompt Ops | `Release` 💡 |
+| 📚 [**`awesome-ai-marketing`**](https://github.com/devkaushall/awesome-ai-marketing) | **Growth Blueprints:** Curated library of high-conversion AI prompts, systems, and automation workflows. | Markdown, System Docs, Automation | `Curated` 📖 |
+| 🎬 [**`ai-video-editing-journey`**](https://github.com/devkaushall/ai-video-editing-journey) | **Visual Lab:** Research into anime-to-realistic conversion, prompt pipelines, and cinematic sound design. | Generative Video, Visual Storytelling | `Research` 🔬 |
+| 🛠️ [**`its-devil`**](https://github.com/devkaushall/its-devil) | **WordPress Utilities:** Reusable plugins, Elementor component snippets, and developer shortcuts. | PHP, WordPress Core, Elementor | `Maintained` ⚙️ |
 
 </details>
 
 ---
 
-### 🛠️ Technical Capabilities & Stack
+### 🛠️ Technical Capabilities & Architecture Stack
 
 ```
-[FRONTEND & STYLING]     HTML5 • CSS3 • Tailwind CSS • Modern Vanilla JS • Mobile-First Fluid Grid
-[CMS & ARCHITECTURE]     WordPress Core • Elementor Pro • WooCommerce • Custom Snippets (PHP)
-[SEO & METRICS ENGINE]   Technical SEO Audits • Core Web Vitals • Schema Markup • Search Console • GA4
-[DESIGN SYSTEMS]         Zero-Radius Geometric UI • Figma • Dark/Matte Color Theory • Typography Scale
-[AI WORKFLOWS & SKILLS]  Structured Prompt Systems • AI Skill Engineering • Generative Video Pipelines
+┌─────────────────────────┬────────────────────────────────────────────────────────┐
+│ DOMAIN                  │ IMPLEMENTATION & TOOLING                               │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Frontend & Performance  │ HTML5 • Modern CSS3 • Tailwind CSS • Vanilla JS (ES6+) │
+│ CMS & Funnel Engines    │ WordPress Core • Elementor Pro • WooCommerce • PHP     │
+│ SEO & Growth Systems    │ Technical SEO • Schema JSON-LD • GA4 • Search Console  │
+│ UI & Design Tokens      │ Zero-Radius Matte Noir Design • Figma • Typography     │
+│ AI Engineering & Auto   │ AI Skill Engineering • Staged Prompt Pipelines • LLMs  │
+└─────────────────────────┴────────────────────────────────────────────────────────┘
 ```
-
-<details>
-<summary><b>Detailed Tool Breakdown</b></summary>
-<br/>
-
-- **Web Performance & Code**: Semantic HTML, CSS Custom Properties, Vanilla JavaScript, Node.js tooling, Tailwind CSS.
-- **Content Management**: Advanced WordPress configurations, bespoke Elementor layouts, clean WooCommerce structures without bloated plugin dependency.
-- **Search Engine Optimization**: Crawl budget optimization, internal linking hierarchy, structured data (JSON-LD), on-page keyword mapping, and competitor gap teardowns.
-- **Testing & Quality Assurance**: Structural validation, cross-browser responsiveness checks, WCAG 2.1 accessibility compliance.
-</details>
 
 ---
 
-### 📈 Verified GitHub Activity & Contribution Velocity
+### 📊 GitHub Activity & Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devkaushall&show_icons=true&theme=dark&hide_border=true&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Dev Kaushal Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkaushall&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="Dev Kaushal Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devkaushall&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=090d16" alt="Dev Kaushal Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkaushall&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=090d16" alt="Dev Kaushal Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devkaushall&layout=compact&theme=dark&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkaushall&theme=midnight-purple&bg_color=090d16&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="97%" alt="Dev Activity Graph" />
 </div>
 
 ---
 
-### 🧭 Guiding Engineering & Design Principles
+### 🧭 Core Principles
 
-> *"Where luxury design meets measurable growth."*
-
-1. **Substance Over Hype**: No fabricated revenue numbers, no exaggerated claims. Every project represents real files, real commits, and real technical challenges.
-2. **Speed is a Feature**: A visually stunning site that takes 4 seconds to load is a failed build. Performance, SEO, and visual aesthetics must exist in complete harmony.
-3. **Structured Thinking**: From building Instagram growth diagnostic trees in AI to structuring CSS design tokens, every output should be modular, repeatable, and scalable.
+1. **Proof Over Projection**: No invented clients, fabricated revenue numbers, or generic AI buzzwords. Real code, real architectural files.
+2. **Performance as Aesthetic**: True luxury is speed. Fast load times and accessible HTML semantic structures always come before visual fluff.
+3. **Engineered Modularity**: Clean CSS variables, structured AI diagnostic trees, and scalable component hierarchies.
 
 ---
 
-### 💬 Direct Communication Lines
-
-Ready to build high-converting web systems, optimize technical SEO footprints, or discuss AI automation workflows?
+### 📬 Direct Channels
 
 - 🌐 **Flagship Portfolio**: [dev-kaushal.netlify.app](https://dev-kaushal.netlify.app/)
-- 💼 **Professional Network**: [linkedin.com/in/dev-kaushal-8215373ab](https://linkedin.com/in/dev-kaushal-8215373ab)
-- 💬 **Instant Message**: [WhatsApp (+91 8923162439)](https://wa.me/918923162439)
-- 🏢 **Digital Agency Hub**: [dev.digitalindiahub.com](https://dev.digitalindiahub.com/)
+- 💼 **LinkedIn**: [linkedin.com/in/dev-kaushal-8215373ab](https://linkedin.com/in/dev-kaushal-8215373ab)
+- 💬 **WhatsApp**: [+91 8923162439](https://wa.me/918923162439)
+- 🏢 **Digital India Hub**: [dev.digitalindiahub.com](https://dev.digitalindiahub.com/)
 
----
+<br/>
 
 <div align="center">
-  <sub>Dev Kaushal &bull; Designed with clean geometry, verified technical work &bull; Gurugram, India</sub>
+  <sub>Dev Kaushal &bull; Systems Designer &bull; Gurugram, India</sub>
 </div>
